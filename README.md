@@ -1,3 +1,5 @@
+# SongRecSys
+---
 
 A Java-based song recommendation system with a JavaFX interface that uses machine learning algorithms to provide personalized music recommendations.
 
@@ -40,7 +42,9 @@ SongRecSys is a recommendation engine that implements K-Nearest Neighbors (KNN) 
 
 | Screen 1                                                                    | Screen 2                                                                    |
 | --------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| <img src="Captura de pantalla 2025-02-27 a las 20.24.43.png" width="300" /> | <img src="Captura de pantalla 2025-02-27 a las 20.24.43.png" width="300" /> |
+| <img width="300" alt="Captura de pantalla 2025-02-27 a las 20 24 43" src="https://github.com/user-attachments/assets/6c6207f4-5104-403a-ac9f-062f5cd56d24" />
+|<img width="300" alt="Captura de pantalla 2025-02-27 a las 20 24 51" src="https://github.com/user-attachments/assets/615ced7a-a9ad-4f18-ba75-098786553574" />
+ |
 
 
 ## Contributing
